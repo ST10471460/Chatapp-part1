@@ -9,6 +9,3 @@ Download the project on github as a zip file
 You would need an IDE netbeans prefably.
 When in netbeams import the zip file and once the project is loaded,
 click the green arrow to run the project and follow through the instructions.
-
-Youtube link to a video explaining the code and and how the output looks.
-https://youtu.be/3AZk9Mv31yY
